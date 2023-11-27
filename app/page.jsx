@@ -7,7 +7,7 @@ export default function Landing() {
   return (
     <div className=" overflow-auto break-words">
       <img
-        src="https://www.utp.edu.pe/sites/default/files/styles/transformar_webp/public/hero-banner/Pieza-web-1702-x-692-px%20%281%29.jpg.webp?itok=E3z9flWq"
+        src="https://i.ytimg.com/vi/IfM3TpvN2Og/maxresdefault.jpg"
         width={100000}
         alt=""
       />
