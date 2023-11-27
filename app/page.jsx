@@ -1,8 +1,3 @@
-// import Features from "./components/c/components/features";
-// // import FeaturesBlocks from "./components/c/components/features-blocks";
-// import Hero from "./components/c/components/hero";
-// // import Newsletter from "./components/c/components/newsletter";
-
 export default function Landing() {
   return (
     <div className=" overflow-auto break-words">
@@ -11,13 +6,6 @@ export default function Landing() {
         width={100000}
         alt=""
       />
-      <>
-        {/* <Hero /> */}
-        {/* <Features /> */}
-        {/* <FeaturesBlocks /> */}
-        {/* <Testimonials /> */}
-        {/* <Newsletter /> */}
-      </>
       <div className=" bg-rose-600 h-6"></div>
       <footer className=" bg-black py-14 px-16 text-white">
         <div className=" mx-auto max-w-7xl border-b border-gray-500 max-md:flex-col max-md:items-center flex max-md:text-xs">
